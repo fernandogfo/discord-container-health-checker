@@ -1,0 +1,17 @@
+{
+  "name": "discord-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dockerode": "^4.0.2"
+  }
+}
